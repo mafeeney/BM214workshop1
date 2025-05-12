@@ -1,0 +1,8 @@
+# PCR Applications
+
+## Gene expression analysis
+
+## Genotyping and diagnostics
+
+## Cloning, mutagenesis, and synthetic biology
+

@@ -1,0 +1,11 @@
+# PCR Primer Design
+
+## Designing a forward primer
+
+## Designing a reverse primer
+
+## Primer design tips
+
+## Primer quality checks
+
+## Using bioinformatic tools to design primers
